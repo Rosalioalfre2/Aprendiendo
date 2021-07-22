@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: blue;
+    border: green 4px dotted;
+    margin: auto;
+    width: 50%;
+    padding: 15px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+
+table{
+    margin: auto;
+}
+
+td{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+
+.gray{
+    background-color: gray;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
