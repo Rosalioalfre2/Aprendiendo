@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(202, 199, 199) url(Oscar.jpeg) no-repeat top right;
+    background-size: 20%;
+    padding: 0 30% 0 30%;
+}
+
+h1{
+    color: darkblue;
+    margin: 10px 0 0 0;
+}
+
+p{
+    color: black;
+    text-align: justify;
+}
+
+h2{
+    color: maroon;
+    margin: 15px 0 10px 0;
+}
+
+.container{
+    margin-top: 20px;
+    background-color: rgba(0, 255, 34, 0.699);
+    border: 3px groove #000000;
+    padding: 5px 20px 15px 20px;
+}
+
+ul{
+    margin-top: 15px;
+}
+
+ul li {
+    margin-top: 5px;
+}
+
+ul li:hover{
+    background-color: tomato;
+}
+
+ul li a:visited{
+    color: black;
+}
